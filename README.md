@@ -1,0 +1,1 @@
+# vscode-outer-space-theme

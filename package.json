@@ -1,0 +1,35 @@
+{
+	"name": "vscode-firewatch-theme",
+	"version": "1.0.0",
+	"description": "Burning outer space",
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"repository": "git@github.com:schulke-214/vscode-firewatch-theme.git",
+	"author": "Maximilian Schulke <hello@maximilianschulke.com>",
+	"license": "MIT",
+	"scripts": {
+		"generate": "ncc run ./generate.ts"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Firewatch Theme",
+				"uiTheme": "vs-dark",
+				"path": "./firewatch.json"
+			}
+		]
+	},
+	"dependencies": {
+		"@types/node": "^12.7.12",
+		"polished": "^3.4.1",
+		"vscode-theme-generator": "^0.1.5"
+	},
+	"devDependencies": {
+		"@zeit/ncc": "^0.20.5"
+	}
+}

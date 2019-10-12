@@ -1,6 +1,6 @@
 {
 	"name": "orion",
-	"displayName": "Orion Theme",
+	"displayName": "Orion Dark",
 	"version": "0.1.0",
 	"icon": "./assets/logo.png",
 	"description": "A beautiful darkish theme for Visual Studio Code.",

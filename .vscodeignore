@@ -1,3 +1,6 @@
 *.ts
+*.psd
 lib
+_lib
 node_modules
+assets/source

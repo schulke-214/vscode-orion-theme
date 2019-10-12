@@ -1,3 +1,3 @@
-rm -rf ~/.vscode/extensions/schulke-214.Firewatch
-mkdir ~/.vscode/extensions/schulke-214.Firewatch
-cp -R . ~/.vscode/extensions/schulke-214.Firewatch/
+rm -rf ~/.vscode/extensions/schulke-214.Orion
+mkdir ~/.vscode/extensions/schulke-214.Orion
+cp -R . ~/.vscode/extensions/schulke-214.Orion/

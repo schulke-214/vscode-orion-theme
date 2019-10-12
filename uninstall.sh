@@ -1,1 +1,1 @@
-rm -rf ~/.vscode/extensions/schulke-214.Firewatch
+rm -rf ~/.vscode/extensions/schulke-214.Orion

@@ -22,6 +22,14 @@ ext install one-monokai
 
 ![javascript / typescript](./assets/screenshots/javascript-typescript.png)
 
+#### Vue
+
+![vue](./assets/screenshots/vue.png)
+
+#### Scss
+
+![scss](./assets/screenshots/scss.png)
+
 #### Rust
 
 ![rust](./assets/screenshots/rust.png)

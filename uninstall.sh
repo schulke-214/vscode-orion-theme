@@ -1,1 +1,1 @@
-rm -rf ~/.vscode/extensions/schulke-214.Orion
+rm -rf ~/.vscode/extensions/schulke-214.orion-local

@@ -3,8 +3,8 @@
 ![orion](./assets/icon.png) <br />
 A beautiful darkish theme for Visual Studio Code.
 
-![downloads](https://img.shields.io/visual-studio-marketplace/d/schulke-214.Orion?label=downloads&style=flat-square)
-![rating](https://img.shields.io/visual-studio-marketplace/r/schulke-214.Orion?style=flat-square)
+![downloads](https://img.shields.io/visual-studio-marketplace/d/schulke-214.orion?label=downloads&style=flat-square)
+![rating](https://img.shields.io/visual-studio-marketplace/r/schulke-214.orion?style=flat-square)
 
 ---
 

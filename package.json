@@ -2,7 +2,7 @@
 	"name": "orion",
 	"displayName": "Orion Dark",
 	"version": "0.1.0",
-	"icon": "./assets/logo.png",
+	"icon": "assets/icon.png",
 	"description": "A beautiful darkish theme for Visual Studio Code.",
 	"categories": [
 		"Themes"
@@ -35,13 +35,5 @@
 				"path": "./themes/orion.json"
 			}
 		]
-	},
-	"dependencies": {
-		"@types/node": "^12.7.12",
-		"polished": "^3.4.1",
-		"vscode-theme-generator": "^0.1.5"
-	},
-	"devDependencies": {
-		"@zeit/ncc": "^0.20.5"
 	}
 }

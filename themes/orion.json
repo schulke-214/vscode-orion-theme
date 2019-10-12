@@ -128,7 +128,7 @@
 		//"extensionButton.prominentBackground": "#327e36",
 		//"extensionButton.prominentForeground": "#ffffff",
 		//"extensionButton.prominentHoverBackground": "#28632b",
-		"focusBorder": "#a14d62cc",
+		"focusBorder": "#e2c08d99",
 		"gitDecoration.addedResourceForeground": "#81b88b",
 		"gitDecoration.conflictingResourceForeground": "#6c6cc4",
 		"gitDecoration.deletedResourceForeground": "#e26852",
@@ -298,7 +298,7 @@
 			"name": "Number",
 			"scope": ["constant.numeric"],
 			"settings": {
-				"foreground": "#d18466"
+				"foreground": "#c25664"
 			}
 		},
 		{
@@ -343,6 +343,8 @@
 		{
 			"name": "Operators",
 			"scope": [
+				"keyword.operator",
+				"keyword.operator.assignment",
 				"storage.type.function.arrow",
 				"meta.template.expression punctuation",
 				"punctuation.separator.key-value",

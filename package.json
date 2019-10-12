@@ -1,26 +1,38 @@
 {
-	"name": "Firewatch",
-	"version": "1.0.0",
-	"description": "Burning outer space",
+	"name": "orion",
+	"displayName": "Orion Theme",
+	"version": "0.1.0",
+	"icon": "./assets/logo.png",
+	"description": "A beautiful darkish theme for Visual Studio Code.",
 	"categories": [
 		"Themes"
 	],
 	"publisher": "schulke-214",
-	"repository": "git@github.com:schulke-214/vscode-firewatch-theme.git",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/schulke-214/vscode-orion-theme.git"
+	},
 	"author": "Maximilian Schulke <hello@maximilianschulke.com>",
 	"license": "MIT",
+	"keywords": [
+		"Orion",
+		"Theme",
+		"Dark",
+		"Fire",
+		"Space"
+	],
 	"scripts": {
 		"generate": "ncc run ./generate.ts -q"
 	},
 	"engines": {
-		"vscode": "*"
+		"vscode": "^1.13.0"
 	},
 	"contributes": {
 		"themes": [
 			{
-				"label": "Firewatch Theme",
+				"label": "Orion",
 				"uiTheme": "vs-dark",
-				"path": "./themes/firewatch.json"
+				"path": "./themes/orion.json"
 			}
 		]
 	},

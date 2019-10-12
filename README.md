@@ -13,7 +13,7 @@ A beautiful darkish theme for Visual Studio Code.
 press `ctrl/command + shift + p` to launch the command palette and then run
 
 ```
-ext install one-monokai
+ext install orion
 ```
 
 ## Screenshots
